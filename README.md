@@ -25,7 +25,11 @@ Currently, Habits Go is a simple web app, but the long-term plan is to bring it 
 
 **Next Goal:** Improve error handling to display errors in the UI for the user.
 
-## Calander App
-This is a calander app that I am planning to create that is inspired by the Preach My Gospel app that missionaries of The Church of Jesus Christ of Latter-day Saints use.
+## Plannerly *(In Planning)*
+A customizable, event-centric calendar app inspired by the Preach My Gospel app used by missionaries. Instead of typing out event details from scratch, users pick from **Quick Templates** — a small set of customizable categories (like Study, Exercise, or Work) — to schedule recurring but non-routine plans faster.
 
-I have not yet started it.
+Planned features include shared calendars, an overlay view to see schedule overlaps at a glance, map integration for address validation and directions, and offline-capable PWA support.
+
+**Planned Stack:** TypeScript + React, Bootstrap, Supabase (Postgres, auth, real-time sync), Google Maps/Mapbox API (or try out mobile app dev software)
+
+**Status:** Design phase — architecture and requirements are planned, development hasn't started yet.
