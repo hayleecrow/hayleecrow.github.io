@@ -4,6 +4,7 @@
 A financial platform built for the BYU Mechanical Engineering Capstone Office, used by seniors every year to manage their capstone project budgets.
 
 <!-- [Live Site](https://byucapstone.byu.edu/) -- will be at the this link but is not currently -->
+[Prod](https://byucapstone-prod.byu.edu/)
 
 As a Student Software Engineer on a team of 4, I've worked on:
 - Migrating the site to **Next.js** to improve organization and performance
@@ -14,10 +15,11 @@ As a Student Software Engineer on a team of 4, I've worked on:
 
 **Next Goal:** Go live with the TypeScript website we've been working on to replace the old Drupal site!
 
-## Habits Go ([GitHub Repo](https://github.com/hayleecrow/habitstracker))
+## Habits Go ()
 A web app for tracking your own daily goals and seeing your friends' goals as well!
 
 <!-- [Live Site]() -->
+[GitHub Repo](https://github.com/hayleecrow/habitstracker)
 
 Currently, Habits Go is a simple web app, but the long-term plan is to bring it to mobile — ultimately giving it a **phone widget**, so keeping and making goals is as frictionless as possible.
 
