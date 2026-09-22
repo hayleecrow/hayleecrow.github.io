@@ -15,7 +15,7 @@ As a Student Software Engineer on a team of 4, I've worked on:
 
 **Next Goal:** Go live with the TypeScript website we've been working on to replace the old Drupal site!
 
-## Habits Go ()
+## Habits Go
 A web app for tracking your own daily goals and seeing your friends' goals as well!
 
 <!-- [Live Site]() -->
