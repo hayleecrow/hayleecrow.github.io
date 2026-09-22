@@ -7,5 +7,7 @@ Currently it is a simple web application at habitstracker.click, but I plan to m
 
 Next Goal: Improve error handling to display errors in UI for the user.
 
-## Calander App (Working Name)
+## Calander App
 This is a calander app that I am planning to create that is inspired by the Preach My Gospel app that missionaries of The Church of Jesus Christ of Latter-day Saints use.
+
+I have not yet started it.
