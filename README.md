@@ -23,7 +23,7 @@ A web app for tracking your own daily goals and seeing your friends' goals as we
 
 Currently, Habits Go is a simple web app, but the long-term plan is to bring it to mobile — ultimately giving it a **phone widget**, so keeping and making goals is as frictionless as possible.
 
-**Stack:** AWS, JavaScript, Bootstrap, React/Node.js, MongoDB, Web Socket
+**Stack:** JavaScript, Bootstrap, React/Node.js, MongoDB, Web Socket
 
 **Next Goal:** Improve error handling to display errors in the UI for the user.
 
