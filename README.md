@@ -3,8 +3,7 @@
 ## Capstone Financial Website
 A financial platform built for the BYU Mechanical Engineering Capstone Office, used by seniors every year to manage their capstone project budgets.
 
-<!-- [Live Site](https://byucapstone.byu.edu/) -- will be at the this link but is not currently -->
-[Prod](https://byucapstone-prod.byu.edu/)
+[Live Site](https://byucapstone.byu.edu/)
 
 As a Student Software Engineer on a team of 4, I've worked on:
 - Migrating the site to **Next.js** to improve organization and performance
